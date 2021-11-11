@@ -202,6 +202,3 @@ https://www.notion.so/API-27908e2c72a944fbaf8a377399b34859
 
 <br><br>
 
-### 테스트 계정 정보
-    ID : doglivetest@kakao.com
-    PW : ssafy123
